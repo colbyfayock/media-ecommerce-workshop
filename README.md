@@ -14,7 +14,10 @@ Excited to learn? You should be! Here's some of the stuff we'll learn in this wo
 * Create a new Next.js app using a starter template
 * Deploy a Next.js app on Netlify
 * Optimize all images on Netlify with the Netlify Cloudinary Plugin
-* Upload and serve images directly from Cloudinary with the Next.js Image Component
+* Install and configure the Cloudinary JS URL Gen SDK
+* Upload and deliver optimized images from Cloudinary
+* Configure responsive images with the Next.js Image Component and the Cloudinary loader
+* Create a dynamic social media card for product landing pages
 
 ## 👨‍🚀 Who Am I?
 I'm Colby Fayock! 👋
