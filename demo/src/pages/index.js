@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link';
+import Image from 'next/Image';
 
 import Layout from '@components/Layout';
 import Container from '@components/Container';
@@ -27,7 +28,14 @@ export default function Home() {
                 <h2>Prepare for liftoff.</h2>
                 <p>Apparel that&apos;s out of this world!</p>
               </div>
-              <img className={styles.heroImage} src="/images/space-jelly-gear-banner.jpg" alt="" />
+              <Image
+                className={styles.heroImage}
+                width="2400"
+                height="800"
+                src="/images/space-jelly-gear-banner_kmjgvg.jpg"
+                alt=""
+                layout="responsive"
+              />
             </a>
           </Link>
         </div>
@@ -41,7 +49,17 @@ export default function Home() {
                 <Link href="#">
                   <a>
                     <div className={styles.productImage}>
-                      <img width="500" height="500" src={product.image} alt="" />
+                      <Image
+                        width="500"
+                        height="500"
+                        src={`/${product.publicId}`}
+                        alt=""
+                        layout="responsive"
+                        sizes="(min-width: 480px ) 50vw,
+                              (min-width: 728px) 33vw,
+                              (min-width: 976px) 25vw,
+                              100vw"
+                      />
                     </div>
                     <h3 className={styles.productTitle}>
                       { product.name }
