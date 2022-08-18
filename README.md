@@ -13,9 +13,8 @@ Demo: https://media-ecommerce-workshop.netlify.app
 Excited to learn? You should be! Here's some of the stuff we'll learn in this workshop:
 * Create a new Next.js app using a starter template
 * Deploy a Next.js app on Netlify
-* Easily optimize all images on Netlify with the Netlify Cloudinary Plugin
-* Install the Cloudinary SDK
-* Optimize, transform, and resize images on the fly with Cloudinary
+* Optimize all images on Netlify with the Netlify Cloudinary Plugin
+* Upload and serve images directly from Cloudinary with the Next.js Image Component
 
 ## 👨‍🚀 Who Am I?
 I'm Colby Fayock! 👋
