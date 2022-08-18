@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link';
-import Image from 'next/Image';
+import Image from 'next/image';
 import { Cloudinary } from '@cloudinary/url-gen';
 
 import Layout from '@components/Layout';
