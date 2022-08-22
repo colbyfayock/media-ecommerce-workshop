@@ -16,10 +16,10 @@ const Header = () => {
         </p>
         <ul className={styles.headerLinks}>
           <li>
-            <a href="https://github.com/colbyfayock/space-jelly-gear-starter" target="_blank" rel="noreferrer">Starter</a>
+            <a href="https://github.com/colbyfayock/media-ecommerce-workshop-starter" target="_blank" rel="noreferrer">Starter</a>
           </li>
           <li>
-            <a href="#" target="_blank" rel="noreferrer">Source</a>
+            <a href="https://github.com/colbyfayock/media-ecommerce-workshop" target="_blank" rel="noreferrer">Source</a>
           </li>
         </ul>
         <p className={styles.headerCart}>

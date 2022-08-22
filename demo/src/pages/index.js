@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link';
 import Image from 'next/image';
-import { Cloudinary } from '@cloudinary/url-gen';
 
 import Layout from '@components/Layout';
 import Container from '@components/Container';
@@ -10,12 +9,6 @@ import Button from '@components/Button';
 import products from '@data/products';
 
 import styles from '@styles/Page.module.scss'
-
-const cld = new Cloudinary({
-  cloud: {
-    cloudName: process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME
-  }
-});
 
 export default function Home() {
   return (
@@ -53,7 +46,7 @@ export default function Home() {
           {products.slice(0, 4).map(product => {
             return (
               <li key={product.id}>
-                <Link href="#">
+                <Link href={`/products/${product.id}`}>
                   <a>
                     <div className={styles.productImage}>
                       <Image
