@@ -18,6 +18,7 @@ Excited to learn? You should be! Here's some of the stuff we'll learn in this wo
 * Upload and deliver optimized images from Cloudinary
 * Configure responsive images with the Next.js Image Component and the Cloudinary loader
 * Create a dynamic social media card for product landing pages
+* Try out experimental Next.js Cloudinary Image component
 
 ## 👨‍🚀 Who Am I?
 I'm Colby Fayock! 👋
