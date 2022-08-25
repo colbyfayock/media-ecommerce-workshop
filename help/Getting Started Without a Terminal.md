@@ -2,7 +2,7 @@
 
 While I highly encourage you to use a terminal to work through this project, it's understandable that not everyone may have the experience or ability to use one.
 
-The good news is we can still get productive right inside of the brower and work through most of the lessons, though it will just be a little bit more challenging. 
+The good news is we can still get productive right inside of the brower and work through most of the lessons, though it will just be a little bit more challenging.
 
 Here's what you likely _won't_ be able to do if you continue outside of the terminal:
 - See the changes live in a local environment
@@ -13,7 +13,7 @@ Here's what you likely _won't_ be able to do if you continue outside of the term
 
 The workshop starter is configured to use a GitHub feature called templates which allows you to easily clone a repository with a clean Git start.
 
-To use this feature, head over to [colbyfayock/hyper-bros-trading-workshop-starter](https://github.com/colbyfayock/hyper-bros-trading-workshop-starter) where at the top of the page, you should see a green button that says **Use this template**.
+To use this feature, head over to [colbyfayock/media-ecommerce-workshop-starter](https://github.com/colbyfayock/media-ecommerce-workshop-starter) where at the top of the page, you should see a green button that says **Use this template**.
 
 Once clicked, GitHub will present you with the option of creating a new repository on your account where you can choose the name that you'd like.
 

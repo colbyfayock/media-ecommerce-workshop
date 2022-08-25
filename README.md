@@ -10,9 +10,10 @@ In this workshop you'll learn how to turn a new Next.js project with large, unop
 Demo: https://media-ecommerce-workshop.netlify.app
 
 ## 🔍 Workshop Overview
+
 Excited to learn? You should be! Here's some of the stuff we'll learn in this workshop:
 * Create a new Next.js app using a starter template
-* Deploy a Next.js app on Netlify
+* Deploy a Next.js app on Netlify from GitHub
 * Optimize all images on Netlify with the Netlify Cloudinary Plugin
 * Install and configure the Cloudinary JS URL Gen SDK
 * Upload and deliver optimized images from Cloudinary
@@ -21,6 +22,7 @@ Excited to learn? You should be! Here's some of the stuff we'll learn in this wo
 * Try out experimental Next.js Cloudinary Image component
 
 ## 👨‍🚀 Who Am I?
+
 I'm Colby Fayock! 👋
 
 Astrocoder, Developer Advocate, Space Jelly Commander—I help others get the tech out of the way to solve real problems with the tools of the web. I work with the dev community at Cloudinary and am a prolific creator of educational content around the web teaching others through learning by doing one Star Wars plush cuddle at a time.
@@ -54,9 +56,9 @@ There are three things that are probably considered "strict" requirements for th
 
 This means that you should have basic familiar with a terminal as we'll be using it to run commands.
 
-> Note: if you're more comfortable with a Git GUI and are signed into GitHub, you should be able to follow along with that!
+> ℹ️ Note: if you're more comfortable with a Git GUI and are signed into GitHub, you should be able to follow along with that!
 
-> Not sure how to use a terminal? You still might be able to follow along, see how with [Getting Started Without a Terminal](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/help/Getting%20Started%20Without%20a%20Terminal.md)
+> 💡 Tip: Not sure how to use a terminal? You still might be able to follow along, see how with [Getting Started Without a Terminal](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/help/Getting%20Started%20Without%20a%20Terminal.md)
 
 The **operating system** you use shouldn't matter as long as you can run commands with npm (or yarn if that's your thing).
 
@@ -102,9 +104,9 @@ As far as the project we'll create and work through together, you're welcome to 
 
 ### Lesson Plan
 
-* [01 - Create a new Next.js ecommerce app from a starter project](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/01%20-%20Create%20a%20new%20Next.js%20ecommerce%20app%20from%20a%20starter%20project.md)
-* [02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
-* [03 - Connect and deploy project from GitHub to Netlify](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/03%20-%20Connect%20and%20deploy%20project%20from%20GitHub%20to%20Netlify.md)
+* [01 - Create a new Next.js ecommerce app from a starter project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/01%20-%20Create%20a%20new%20Next.js%20ecommerce%20app%20from%20a%20starter%20project.md)
+* [02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
+* [03 - Connect and deploy project from GitHub to Netlify](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/03%20-%20Connect%20and%20deploy%20project%20from%20GitHub%20to%20Netlify.md)
 
 
 ## 🎓 After the Workshop
@@ -120,5 +122,5 @@ P.S. The form is anonymous unless you decide to provide contact details to follo
 ### More Learning
 
 Looking to take what you've learned to another level? Check out my course [Ecommerce Product Management & Storefront with GraphCMS, Snipcart, & Next.js](https://egghead.io/courses/ecommerce-product-management-storefront-with-graphcms-snipcart-next-js-13cc0534?af=atzgap) where I show you how to build a full stack Next.js ecommerce app including a full end-to-end cart, product management with a GraphQL API, and optimized media with Cloudinary.
- 
+
 https://egghead.io/courses/ecommerce-product-management-storefront-with-graphcms-snipcart-next-js-13cc0534?af=atzgap

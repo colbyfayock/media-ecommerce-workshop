@@ -2,7 +2,7 @@
 
 [Next.js](https://nextjs.org/) is a web framework with a variety of tools built on top of [React](https://reactjs.org/) that gives developers a way to build powerful web apps.
 
-The best part? The APIs that make it so powerful and flexible aren't overly complicated, making the framework more approachable to get started with. 
+The best part? The APIs that make it so powerful and flexible aren't overly complicated, making the framework more approachable to get started with.
 
 ## Getting Started
 
@@ -24,14 +24,34 @@ By default, Create Next App will use a Next.js-managed template, which gives an 
 
 In order to make the best of our time, we'll be starting from an example Next.js app, using the same commandline tool, but by passing in an additional argument with our template.
 
-#### Goal
+#### Getting Started
 
-Create a new Next.js application using the Hyper Bros. Trading Workshop Starter
+In your terminal, run:
+
+```
+yarn create next-app -e https://github.com/colbyfayock/media-ecommerce-workshop-starter my-online-store
+# or
+npx create-next-app -e https://github.com/colbyfayock/media-ecommerce-workshop-starter my-online-store
+```
+
+Next, navigate to your new project directory:
+
+```
+cd my-online-store
+```
+
+Finally, start your development server with:
+
+```
+yarn dev
+# or
+npm run dev
+```
 
 #### Resources
-* [Hyper Bros Trading Workshop Starter](https://github.com/colbyfayock/hyper-bros-trading-workshop-starter) (github.com)
+* [Media Ecommerce Starter](https://github.com/colbyfayock/media-ecommerce-workshop-starter) (github.com)
 
-### 2. Exploring Next.js and how pages work 
+### 2. Exploring Next.js and how pages work
 
 If this is your first time using Next.js, you've just stepped into a super powerful framework that makes it easy for developers to build experiences.
 
@@ -39,23 +59,26 @@ Part of that is its APIs for creating pages and fetching data to build those exp
 
 We'll explore some of the features we're already using with Next.js and the basics of our new online store.
 
-#### Goal
+#### Getting Started
 
-Learn about Next.js and the new project.
+Explore your newly created project! Some files you can check out that we will be working with are:
+* Homepage: `src/pages/index.js`
+* Product Pages: `src/pages/[productId].js`
+* Product Data: `src/data/products.json`
 
 ## Extra Credit
 
 ### 1. Update the title of the store
 
-We started up a new online store called Hyper Bros Trading, but they don't franchise quite yet! That means, you need to come up with your own store name.
+We started up a new online store called Space Jelly, but they don't franchise quite yet! That means, you need to come up with your own store name.
 
 Update the title of the store throughout the application to your new store!
 
 P.S. don't forget the SEO metadata!
 
-#### Goal
+#### Getting Started
 
-Update all instances of Hyper Bros. Trading in the application with a new name
+You can find the `<Head>` component in all of the Page files where you can manage how your page title looks.
 
 #### Where We'll Make Changes
 * `src/pages/index.js`
@@ -63,20 +86,6 @@ Update all instances of Hyper Bros. Trading in the application with a new name
 * `src/components/Footer/Footer.js`
 * `src/components/Header/Header.js`
 
-### 2. Customize your store's colors
-
-Not only do you have a new store name, you likely have your own branding!
-
-Find the settings that control the colors of the layout including the blue, yellow, and green, and change them to your own favorite colors.
-
-#### Goal
-
-Update the store branding to use new colors.
-
-#### Where We'll Make Changes
-* Reivew the color settings file inside `src/styles/settings/_colors.scss` and use search to find each color!
-
-
 ## Next Lesson
 
-[02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/hyper-bros-trading-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
+[02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
