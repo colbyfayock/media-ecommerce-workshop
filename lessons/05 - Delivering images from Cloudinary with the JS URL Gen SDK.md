@@ -45,4 +45,4 @@
 
 ## Next Lesson
 
-[05 - ](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Add%20Snipcart%20to%20the%20homepage.md)
+[06 - Using the Next.js Image component with Cloudinary](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/06%20-%20Using%20the%20Next.js%20Image%20component%20with%20Cloudinary.md)

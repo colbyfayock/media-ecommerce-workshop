@@ -69,4 +69,4 @@ With our Cloudinary account, we can install the plugin right inside the UI, wher
 
 ## Next Lesson
 
-[05 - ](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Add%20Snipcart%20to%20the%20homepage.md)
+[05 - Delivering images from Cloudinary with the JS URL Gen SDK](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/05%20-%20Delivering%20images%20from%20Cloudinary%20with%20the%20JS%20URL%20Gen%20SDK.md)

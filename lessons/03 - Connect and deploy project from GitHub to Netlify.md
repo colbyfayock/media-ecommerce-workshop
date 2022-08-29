@@ -4,7 +4,7 @@ As we mentioned in Lesson 2, we'll be using [Netlify](https://netlify.com/) to a
 
 On top of that, it has a ton of other great features that make collaborative work great such as deploy previews, where if you create a Pull Request, Netlify by default will automatically create a new deployment with those changes! While we're only going to gover the main deployment flow, there's a lot more you can get into with this tool.
 
-> ℹ️ Note: Don't want to use Netlify? Most of this workshop will work with any similar service like [Vercel](https://vercel.com/), you just won't be able to follow along with [lesson 4](https://google.com).
+> ℹ️ Note: Don't want to use Netlify? Most of this workshop will work with any similar service like [Vercel](https://vercel.com/), you just won't be able to follow along with [lesson 4](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md).
 
 ## Getting Started
 
@@ -70,4 +70,4 @@ Create a simple change on a new branch, push it to your GitHub repository, and c
 
 ## Next Lesson
 
-[04 - ](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Add%20Snipcart%20to%20the%20homepage.md)
+[04 - Automatic image optimization with Cloudinary Netlify Plugin](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md)

@@ -10,7 +10,7 @@ For this workshop, we'll ultimately be deploying our application to [Netlify](ht
 
 So in this lesson, we'll use GitHub to create a new repository, learn how to set up our new project with that repository, and push out our code so that it's hosted and version controlled on GitHUb.
 
-> ℹ️ Note: Don't want to use Netlify? Most of this workshop will work with any similar service like [Vercel](https://vercel.com/), you just won't be able to follow along with [lesson 4](https://google.com).
+> ℹ️ Note: Don't want to use Netlify? Most of this workshop will work with any similar service like [Vercel](https://vercel.com/), you just won't be able to follow along with [lesson 4](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md).
 
 ## Objectives
 * Create a new GitHub repository
