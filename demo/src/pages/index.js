@@ -52,7 +52,7 @@ export default function Home() {
                       <Image
                         width="500"
                         height="500"
-                        src={`/${product.publicId}`}
+                        src={product.image}
                         alt=""
                         layout="responsive"
                         sizes="(min-width: 480px ) 50vw,

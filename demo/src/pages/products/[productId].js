@@ -33,7 +33,7 @@ export default function Product({ product, ogImage }) {
             <Image
               width="500"
               height="500"
-              src={`/${product.publicId}`}
+              src={product.image}
               alt=""
               layout="responsive"
               sizes="(min-width: 1024px ) 50vw, 100vw"
@@ -74,7 +74,7 @@ export async function getStaticProps({ params }) {
         quality: 'auto'
       },
       {
-        overlay: product.publicId.replace(/\//g, ':'),
+        overlay: product.image.replace(/^\//, '').replace(/\//g, ':'),
         crop: 'fill',
         width: 600,
         height: 600

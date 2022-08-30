@@ -1,72 +1,62 @@
 [
   {
     "id": "cosmo-hat-model",
-    "publicId": "images/cosmo-hat-model_h2svx8",
     "name": "Cosmo Fitted Hat",
     "price": 30,
-    "image": "/images/cosmo-hat-model.jpg"
+    "image": "/images/cosmo-hat-model_h2svx8"
   },
   {
     "id": "cosmo-hat",
-    "publicId": "images/cosmo-hat_anbqkf",
     "name": "Cosmo Trucker Hat",
     "price": 24,
-    "image": "/images/cosmo-hat.jpg"
+    "image": "/images/cosmo-hat_anbqkf"
   },
   {
     "id": "cosmo-mousepad",
-    "publicId": "images/cosmo-mousepad_wfcdkr",
     "name": "Cosmo Mousepad",
     "price": 20,
-    "image": "/images/cosmo-mousepad.jpg"
+    "image": "/images/cosmo-mousepad_wfcdkr"
   },
   {
     "id": "cosmo-mug",
-    "publicId": "images/cosmo-mug_xt5v0z",
     "name": "Cosmo Mug",
     "price": 15,
-    "image": "/images/cosmo-mug.jpg"
+    "image": "/images/cosmo-mug_xt5v0z"
   },
   {
     "id": "cosmo-pillow",
-    "publicId": "images/cosmo-pillow_bldrzl",
     "name": "Cosmo Pillow",
     "price": 20,
-    "image": "/images/cosmo-pillow.jpg"
+    "image": "/images/cosmo-pillow_bldrzl"
   },
   {
     "id": "cosmo-sweatshirt-hooded",
-    "publicId": "images/cosmo-sweatshirt-hooded_qfnzqm",
     "name": "Cosmo Hooded Sweatshirt",
     "price": 50,
-    "image": "/images/cosmo-sweatshirt-hooded.jpg"
+    "image": "/images/cosmo-sweatshirt-hooded_qfnzqm"
   },
   {
     "id": "cosmo-sweatshirt",
-    "publicId": "images/cosmo-sweatshirt_x6m0vj",
     "name": "Cosmo Sweatshirt",
     "price": 40,
-    "image": "/images/cosmo-sweatshirt.jpg"
+    "image": "/images/cosmo-sweatshirt_x6m0vj"
   },
   {
     "id": "cosmo-tshirt-kids",
-    "publicId": "images/cosmo-tshirt-kids_ojdxtb",
     "name": "Cosmo Kids Tshirt",
     "price": 15,
-    "image": "/images/cosmo-tshirt-kids.jpg"
+    "image": "/images/cosmo-tshirt-kids_ojdxtb"
   },
   {
     "id": "cosmo-tshirt-model",
-    "publicId": "images/cosmo-tshirt-model_j2gow6",
     "name": "Cosmo Tshirt",
     "price": 20,
-    "image": "/images/cosmo-tshirt-model.jpg"
+    "image": "/images/cosmo-tshirt-model_j2gow6"
   },
   {
     "id": "cosmo-tshirt-vneck",
-    "publicId": "images/cosmo-tshirt-vneck_u5gwqz",
     "name": "Cosmo Vneck",
     "price": 20,
-    "image": "/images/cosmo-tshirt-vneck.jpg"
+    "image": "/images/cosmo-tshirt-vneck_u5gwqz"
   }
 ]
