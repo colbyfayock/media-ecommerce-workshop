@@ -4,7 +4,7 @@
 
 As developers, it's probably one of the most foundational tools we can learn, as Git (and GitHub) make working with teams a much better experience.
 
-## Getting Started
+## What to Expect
 
 For this workshop, we'll ultimately be deploying our application to [Netlify](https://www.netlify.com/) and while there are a variety of ways we can do that, we're going to take advantage of Netlify's ability to integrate with a GitHub repository to automate building and deploying the project any time changes are pushed.
 

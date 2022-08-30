@@ -6,7 +6,7 @@ And because we're on Netlify, this is easy to do. Netlify allows plugins into it
 
 That's exactly what's happening with the [Cloudinary Netlify Plugin](https://github.com/colbyfayock/netlify-plugin-cloudinary), where by enabling it with our Cloudinary account, we can get automated optimization for all our images.
 
-## Getting Started
+## What to Expect
 
 First things first, before we dive into the plugin we'll need a Cloudinary account. Hopefully at this point you already have an account set up, but if you don't, be sure to head over to [cloudinary.com/users/register/free](https://cloudinary.com/users/register/free)
 
@@ -92,7 +92,7 @@ We can do things like:
 
 We can also use [Google Auto Tagging](https://cloudinary.com/documentation/google_auto_tagging_addon) or other add-on options to automatically analyze the image and add tags that identify what's in the image!
 
-To enable auto-tagging, click Media analysis and AI then under Tags and Categorization, select Google Auto Tagging. 
+To enable auto-tagging, click Media analysis and AI then under Tags and Categorization, select Google Auto Tagging.
 
 Finally, click Save on your new Upload Preset.
 

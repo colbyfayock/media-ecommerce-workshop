@@ -1,6 +1,6 @@
 # 📓 Lesson 06: Using the Next.js Image component with Cloudinary
 
-## Getting Started
+## What to Expect
 
 
 

@@ -6,7 +6,7 @@ On top of that, it has a ton of other great features that make collaborative wor
 
 > ℹ️ Note: Don't want to use Netlify? Most of this workshop will work with any similar service like [Vercel](https://vercel.com/), you just won't be able to follow along with [lesson 4](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md).
 
-## Getting Started
+## What to Expect
 
 In this lessson, our overall goal is to deploy our application to the world!
 

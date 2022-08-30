@@ -4,7 +4,7 @@ While using the Netlify plugin allows us to serve our images from Cloudinary, we
 
 By using a Cloudinary SDK in the application layer, we can use all of the [transformations](https://cloudinary.com/documentation/image_transformations) that take working with images beyond [optimization](https://cloudinary.com/documentation/image_optimization), using tools like on-the-fly cropping and AI to build great experiences.
 
-## Getting Started
+## What to Expect
 
 In this lesson we'll learn how we can serve our images directly from Cloudinary from within our Next.js app.
 

@@ -4,7 +4,7 @@
 
 The best part? The APIs that make it so powerful and flexible aren't overly complicated, making the framework more approachable to get started with.
 
-## Getting Started
+## What to Expect
 
 In this lesson, we'll learn how to create a new application with React framework Next.js.
 
