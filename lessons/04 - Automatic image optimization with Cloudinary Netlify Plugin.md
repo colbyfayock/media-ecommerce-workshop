@@ -33,10 +33,8 @@ First head to the Plugins section inside Netlify, search for Cloudinary, and cli
 Once installed we need to configure our Cloud Name for Cloudinary, so head back to your Netlify Site then navigate to Site Settings > Build & Deploy > Environment > Environment Variables where you can then add the following environment variable:
 
 ```
-CLOUDINARY_CLOUD_NAME
+CLOUDINARY_CLOUD_NAME="<Your Cloud Name>"
 ```
-
-Set the value to your Cloud Name found right at the top of your [cloudinary.com](https://cloudinary.com/) dashboard!
 
 #### Where We'll Make Changes
 * Netlify > Plugins > Search: "Cloudinary"
