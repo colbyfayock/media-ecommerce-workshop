@@ -77,7 +77,7 @@ By default, the plugin uses the Fetch method which is an easy way to get remote 
 
 Two of those is using Signed Uploads and specifying an Upload Preset for making changes upon upload.
 
-> ℹ️ Note: We're combining the Upload Preset work here as we want to make sure when our assets are uplaoded the first time, they use the Upload Preset, otherwise it won't work again until new assets are uploaded, as the plugin tries to avoid re-uploading existing imgaes.
+> ℹ️ Note: We're combining the Upload Preset work here as we want to make sure when our assets are uploaded the first time, they use the Upload Preset, otherwise it won't work again until new assets are uploaded, as the plugin tries to avoid re-uploading existing imgaes.
 
 #### Getting Started
 
@@ -88,7 +88,7 @@ Select Add Upload Preset where we can then configure out Upload Preset to make c
 We can do things like:
 * Change Name: Optionally change the name of the preset to something readable
 * Change Folder: Want these uploaded to a specific folder in Cloudinary for organization? Set that under Folder
-* Add Tags: Click Media analysis and AI then under Tags add netlify-site and / or whatever tags you'd like to test this out with
+* Add Tags: Click Media analysis and AI then under Tags add `netlify-site` and / or whatever tags you'd like to test this out with
 
 We can also use [Google Auto Tagging](https://cloudinary.com/documentation/google_auto_tagging_addon) or other add-on options to automatically analyze the image and add tags that identify what's in the image!
 
