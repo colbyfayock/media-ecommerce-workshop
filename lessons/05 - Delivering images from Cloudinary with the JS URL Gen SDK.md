@@ -92,13 +92,15 @@ And now we're ready to create URLs to deliver images!
 * [Cloudinary JS URL Gen SDK Installation](https://github.com/cloudinary/js-url-gen#installation)
 
 
-### 3. Set up the Cloudinary JS URL Gen SDK
+### 3. Create Cloudinary image URLs with the SDK
 
 Step #1 we uploaded our images and fixed product references and in step #2 we set up our SDK. Now let's use it!
 
 #### Getting Started
 
 The basis of creating an image URL is the `cld.image` method, where we can pass in our Public ID and the SDK does the rest.
+
+> 💡 Tip: You can similarly use `cld.video` for video files!
 
 Update the `img` tag in our Products loop (`.map` function) to use a new Cloudinary image:
 
