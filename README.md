@@ -32,7 +32,7 @@ I bring this passion from my work tackling challenges like high scale video stre
 
 In addition to all of my other work, I've published two books [Jamstack Handbook](https://jamstackhandbook.com/) — which includes everything you need to know about the Jamstack with 3 step-by-step tutorials — and [50 Projects for React and the Static Web](https://50reactprojects.com/) — which is a free ebook that includes 50 project ideas complete with project briefs, resources, and even design layout ideas.
 
-You can also find me on Twitter at [@colbyfayock](https://twitter.com/colbyfayock)!
+You can also find me on [Twitter at @colbyfayock](https://twitter.com/colbyfayock) and [YouTube at @colbyfayock](https://youtube.com/colbyfayock) as well!
 
 ## 🧰 Before the Workshop
 
