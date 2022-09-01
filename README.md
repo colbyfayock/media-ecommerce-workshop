@@ -15,19 +15,18 @@ Excited to learn? You should be! Here's some of the stuff we'll learn in this wo
 * Create a new Next.js app using a starter template
 * Deploy a Next.js app on Netlify from GitHub
 * Optimize all images on Netlify with the Netlify Cloudinary Plugin
-* Install and configure the Cloudinary JS URL Gen SDK
 * Upload and deliver optimized images from Cloudinary
+* Install and configure the Cloudinary JS URL Gen SDK
 * Configure responsive images with the Next.js Image Component and the Cloudinary loader
-* Create a dynamic social media card for product landing pages
-* Try out experimental Next.js Cloudinary Image component
+* And more? 👀 we'll see how much time we have!
 
 ## 👨‍🚀 Who Am I?
 
 I'm Colby Fayock! 👋
 
-Astrocoder, Developer Advocate, Space Jelly Commander—I help others get the tech out of the way to solve real problems with the tools of the web. I work with the dev community at Cloudinary and am a prolific creator of educational content around the web teaching others through learning by doing one Star Wars plush cuddle at a time.
+Astrocoder, Developer Advocate, Space Jelly Commander—I help others get the tech out of the way to solve real problems with the tools of the web. I work with the dev community at Cloudinary and am a prolific creator of educational content teaching others through learning by doing one Star Wars plush cuddle at a time.
 
-You might have seen some of my educational work across the web where I help others learn about Javascript, React, and the static web by creating [tutorials on YouTube](https://www.youtube.com/colbyfayock), writing about those tutorials on [spacejelly.dev](https://spacejelly.dev/), and I'm a course instructor with [egghead.io](https://egghead.io/instructors/colby-fayock?af=atzgap) and [Level Up Tutorials](https://www.leveluptutorials.com/tutorials/ecommerce-on-the-jamstack-with-snipcart-next-js-and-wordpress).
+You might have seen some of my content across the web where I help others learn about Javascript, React, and the static web by creating [tutorials on YouTube](https://www.youtube.com/colbyfayock), writing about those tutorials on [spacejelly.dev](https://spacejelly.dev/), and I'm a course instructor with [egghead.io](https://egghead.io/instructors/colby-fayock?af=atzgap) and [Level Up Tutorials](https://www.leveluptutorials.com/tutorials/ecommerce-on-the-jamstack-with-snipcart-next-js-and-wordpress).
 
 I bring this passion from my work tackling challenges like high scale video streaming services, ecommerce with [ThinkGeek](https://twitter.com/thinkgeek), satellite dashboards, and my community work with [Cloudinary](https://cloudinary.com/).
 
@@ -39,7 +38,7 @@ You can also find me on Twitter at [@colbyfayock](https://twitter.com/colbyfayoc
 
 There are a few things you'll want to make sure you'll have prepped before we jump into the workshop.
 
-First off, you'll want to make sure that you meet the miminum environment requirements in the section below. Basically, you should be able to use npm for working with projects locally on your machine or if you're using a cloud environment like CodeSandbox.
+First off, you'll want to make sure that you meet the miminum environment requirements in the section below. Basically, you should be able to use npm for working with projects locally on your machine.
 
 You'll also want to make sure you have signed up for a free acount with the following:
 - [GitHub](https://github.com/)
@@ -49,10 +48,11 @@ You'll also want to make sure you have signed up for a free acount with the foll
 While you _can_ do these things during the workshop, you risk the chance that you'll fall behind while we're working through the curriculum.
 
 ### Environment Requirements
+
 There are three things that are probably considered "strict" requirements for the workshop:
 * [node](https://nodejs.org/en/)
 * [git](https://git-scm.com/)
-* Signed in to GitHub locally
+* Signed in to GitHub in your local environment
 
 This means that you should have basic familiar with a terminal as we'll be using it to run commands.
 
@@ -107,6 +107,9 @@ As far as the project we'll create and work through together, you're welcome to 
 * [01 - Create a new Next.js ecommerce app from a starter project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/01%20-%20Create%20a%20new%20Next.js%20ecommerce%20app%20from%20a%20starter%20project.md)
 * [02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
 * [03 - Connect and deploy project from GitHub to Netlify](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/03%20-%20Connect%20and%20deploy%20project%20from%20GitHub%20to%20Netlify.md)
+* [04 - Automatic image optimization with Cloudinary Netlify Plugin](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md)
+* [05 - Delivering images from Cloudinary with the JS URL Gen SDK](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/05%20-%20Delivering%20images%20from%20Cloudinary%20with%20the%20JS%20URL%20Gen%20SDK.md)
+* [06 - Using the Next.js Image component with Cloudinary](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/06%20-%20Using%20the%20Next.js%20Image%20component%20with%20Cloudinary.md)
 
 
 ## 🎓 After the Workshop
@@ -115,7 +118,7 @@ As far as the project we'll create and work through together, you're welcome to 
 
 The good, the bad -- I want to know! I would really appreciate you taking any time to hop in this survey and be honest about your experience with the workshop. Please take into consideration both how much you've enjoyed the workshop and how much you felt you've learned.
 
-[Take the survey!](https://forms.gle/rw9ZWoeo1GQDfQc17) (https://forms.gle/rw9ZWoeo1GQDfQc17)
+[Take the survey!](https://forms.gle/syzLdDJTFKAuSGkC9) (https://forms.gle/syzLdDJTFKAuSGkC9)
 
 P.S. The form is anonymous unless you decide to provide contact details to follow up with.
 
@@ -123,4 +126,4 @@ P.S. The form is anonymous unless you decide to provide contact details to follo
 
 Looking to take what you've learned to another level? Check out my course [Ecommerce Product Management & Storefront with GraphCMS, Snipcart, & Next.js](https://egghead.io/courses/ecommerce-product-management-storefront-with-graphcms-snipcart-next-js-13cc0534?af=atzgap) where I show you how to build a full stack Next.js ecommerce app including a full end-to-end cart, product management with a GraphQL API, and optimized media with Cloudinary.
 
-https://egghead.io/courses/ecommerce-product-management-storefront-with-graphcms-snipcart-next-js-13cc0534?af=atzgap
+<https://egghead.io/courses/ecommerce-product-management-storefront-with-graphcms-snipcart-next-js-13cc0534?af=atzgap>
