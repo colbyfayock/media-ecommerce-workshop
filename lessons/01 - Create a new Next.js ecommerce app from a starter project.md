@@ -63,8 +63,11 @@ We'll explore some of the features we're already using with Next.js and the basi
 
 Explore your newly created project! Some files you can check out that we will be working with are:
 * Homepage: `src/pages/index.js`
-* Product Pages: `src/pages/[productId].js`
 * Product Data: `src/data/products.json`
+
+The homepage file includes the React that renders the page.
+
+The product data is what it sounds like, but importantly, is where we manage the image locations, which we'll update in a later lesson when starting to work with Cloudinary.
 
 ## Extra Credit
 
@@ -82,7 +85,6 @@ You can find the `<Head>` component in all of the Page files where you can manag
 
 #### Where We'll Make Changes
 * `src/pages/index.js`
-* `src/pages/products/[productId].js`
 * `src/components/Footer/Footer.js`
 * `src/components/Header/Header.js`
 
