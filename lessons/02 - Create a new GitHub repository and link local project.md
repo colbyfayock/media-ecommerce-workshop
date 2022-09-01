@@ -2,15 +2,17 @@
 
 [GitHub](https://github.com/) (where you might be looking at this from) is a web platform that gives developers the ability to utilize version control system Git in a more "social" and collaborative way. On top of that, it has loads of other features like my favorite [Actions](https://www.youtube.com/colbz/search?query=github%20actions) and even [Codespaces](https://github.com/features/codespaces)!
 
-As developers, it's probably one of the most foundational tools we can learn, as Git (and GitHub) make working with teams a much better experience.
+As developers, it's probably one of the most foundational tools we can learn, as Git (and GitHub) make working with teams a much better experience, not to mention an easier way to store and keep multiple versions of your code instead of an endless supply of ZIP files.
 
 ## What to Expect
 
 For this workshop, we'll ultimately be deploying our application to [Netlify](https://www.netlify.com/) and while there are a variety of ways we can do that, we're going to take advantage of Netlify's ability to integrate with a GitHub repository to automate building and deploying the project any time changes are pushed.
 
-So in this lesson, we'll use GitHub to create a new repository, learn how to set up our new project with that repository, and push out our code so that it's hosted and version controlled on GitHUb.
+So in this lesson, we'll use GitHub to create a new repository, learn how to set up our new project with that repository, and push out our code so that it's hosted and version controlled on GitHub.
 
 > ℹ️ Note: Don't want to use Netlify? Most of this workshop will work with any similar service like [Vercel](https://vercel.com/), you just won't be able to follow along with [lesson 4](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md).
+
+> ℹ️ Note: Or don't want to use GitHub? Both Netlify and Vercel support multiple Git providers, so just make sure you're working with one that's supported by the platform you choose to deploy with.
 
 ## Objectives
 * Create a new GitHub repository
@@ -45,7 +47,7 @@ While sometimes starting from scratch is an option, we already have some code, b
 
 Once you created your new repository, GitHub will provide you with instructions for how to add your local project which you can simply copy and paste into your terminal.
 
-Ultimately you want to update your "origin":
+Ultimately you want to update your `origin`:
 
 ```
 git remote add origin git@github.com:<Your Username>/<Your Repository Name>.git
@@ -70,7 +72,7 @@ If you notice on your GitHub repository's main page, GitHub uses that README to 
 
 This works great, but we want to make sure the README is accurate for OUR project, not someone else's.
 
-Note: this could be as simple as updating the title or adding some more information about your goal for the project!
+> 💡 Tip: this could be as simple as updating the title or adding some more information about your goal for the project!
 
 #### Getting Started
 
@@ -85,11 +87,11 @@ Similar to the README.md file, the project came with a package.json which is wha
 
 On top of that, the file includes some metadata about the project, including a name and author information.
 
-Note: package.json is sensitive and it's required to be a valid JSON document. When making changes, be sure to avoid syntax errors!
-
 #### Getting Started
 
-Update package.json with your project and author information
+Update package.json with your project and author information.
+
+> ℹ️ Note: package.json is sensitive and it's required to be a valid JSON document. When making changes, be sure to avoid syntax errors!
 
 #### Where We'll Make Changes
 * `package.json`
