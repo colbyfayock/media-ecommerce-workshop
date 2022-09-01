@@ -13,11 +13,10 @@ In this lessson, our overall goal is to deploy our application to the world!
 Because we already have our application set up in a GitHub repository, Netlify makes this easy to connect where any new changes we push our automatically get deployed.
 
 ## Objectives
-* Connect a GitHub repository to Netlify
-* Create a new Netlify site
+* Create a new Netlify site connected to a GitHub repository
 * Deploy a Netlify site
 * Review Next.js on Netlify
-* Cutomzing the Netlify Site subdomain
+* Customizing the Netlify Site subdomain
 
 ## Exercises
 
@@ -30,6 +29,10 @@ Using your Netlify account, we'll create a new Netlify Site where we'll use GitH
 #### Getting Started
 
 Add a new Netlify site using your new GitHub repository.
+
+Once you select your repository, Netlify will ask you for some configuration settings, but you'll also notice that Netlify was able to detect it's a Next.js project and will even install the plugin for you.
+
+Netlify is set up to make deploying Next.js easy, so we don't need to touch any of the configurations, and we can just click Deploy!
 
 #### Resources
 * [A Step-by-Step Guide: Deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
