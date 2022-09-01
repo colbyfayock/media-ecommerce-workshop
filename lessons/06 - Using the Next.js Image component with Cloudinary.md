@@ -73,7 +73,7 @@ The good news is Cloudinary has a built-in Loader allowing us to still deliver s
 
 #### Getting Started
 
-Opting to Loaders are an easy change, where back inside of `next.config.js`, we want to update our `images` property to:
+Opting in to Loaders are an easy change, where back inside of `next.config.js`, we want to update our `images` property to:
 
 ```
 images: {
@@ -94,7 +94,7 @@ Yup, that means undoing the work of the previous lesson and passing in the Publi
 
 And you'll notice the images are back to being served from Cloudinary, but now by using the Next.js Image Component.
 
-> 💡 Tip: While we undid the previous lesson, it was important to help us understand how Cloudinary URLs are constructed combined with the features provided under the hood. This will be useful for understanding how Next.js makes some of it's features work with Cloudinary along with how you could use that knowledge in other use cases where the Next.js Image Component might not make sense.
+> 💡 Tip: While we undid the previous lesson, it was important to help us understand how Cloudinary URLs are constructed combined with the features provided under the hood. This will be useful for understanding how Next.js makes some of its features work with Cloudinary along with how you could use that knowledge in other use cases where the Next.js Image Component might not make sense.
 
 #### Where We'll Make Changes
 * `src/pages/index.js`
@@ -162,3 +162,55 @@ By defining `sizes` we can control exactly what size gets delivered at what view
 #### Resources
 * [MDN Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 * [Next.js Image Sizes](https://nextjs.org/docs/api-reference/next/image#sizes)
+
+## Extra Credit
+
+### 1. Using the Cloudinary Next.js Image component
+
+Using the Cloudinary loader with Next.js works, but it isn't perfect. We get some of the benefits like optimization but we lose out to a whole range of features Cloudinary provides like dynamic overlays and transformations like background removal.
+
+To help bring these worlds together, I've been working on a Cloudinary Image Component for Next.js that allows you to do exactly that.
+
+https://github.com/colbyfayock/next-cloudinary
+
+#### Getting Started
+
+The Cloudinary Next.js Component is first and formost a wrapper around the Next.js Image component, meaning, you can use it pretty much identically do how you are already using it.
+
+But you still need to install it, so starting off in your terminal run:
+
+```
+yarn add next-cloudinary
+# or
+npm install next-cloudinary
+```
+
+Next, import the package at the top of `src/pages/index.js` with:
+
+```
+import { CldImage } from 'next-cloudinary';
+```
+
+Add a new environment variable with your Cloudinary Cloud name by creating a `.env.local` file with:
+
+```
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME="<Your Cloud Name>"
+```
+
+And finally update any instance of `<Image` with `<CldImage`
+
+#### Resources
+* [Cloudinary Next.js Component](https://github.com/colbyfayock/next-cloudinary)
+
+### 2. Add a text-based overlay with the Cloudinary Next.js Component
+
+Now that we've tapped further into Cloudinary, we can use more features than we had before, like overlays, where we can add other images and text right on top of our image.
+
+#### Getting Started
+
+Head over to the examples page for the Cloudinary Next.js Component where if you scroll down, you'll see prop examples of how to add overlays.
+
+Give this a try and add some kind of indicator you might normally see in an online store such as "New" or "Sale".
+
+#### Resources
+* [Cloudinary Next.js Component Examples](https://next-cloudinary-example.vercel.app/)
