@@ -1,4 +1,4 @@
-# 🚀 Building Performant Experiences on the Visual Web with Cloudinary
+# 🚀 Performance-First E-commerce & Visual Web Experiences with Cloudinary
 
 In this workshop you'll learn how to turn a new Next.js project with large, unoptimized images into a fast, performant web app.
 
