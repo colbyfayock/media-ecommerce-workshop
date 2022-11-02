@@ -14,12 +14,12 @@ export default function Product({ product, ogImage }) {
   return (
     <Layout>
       <Head>
-        <title>{ product.name } - Space Jelly Gear</title>
+        <title>{`${product.name} - Space Jelly`}</title>
         <meta name="description" content={`${product.name} on Space Jelly gear!`} />
         <meta property="og:description" content={`${product.name} on Space Jelly gear!`} />
         <meta property="og:type" content="article" />
       </Head>
-
+{/*
       <CldOgImage
         src="images/product-social-media-card_l8thig"
         overlays={[
@@ -67,7 +67,7 @@ export default function Product({ product, ogImage }) {
           }
         ]}
         twitterTitle={`${product.name} - Space Jelly Gear`}
-      />
+      /> */}
 
       <Container>
         <div className={styles.productWrapper}>
