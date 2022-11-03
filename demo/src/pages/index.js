@@ -31,7 +31,8 @@ export default function Home() {
               className={styles.heroImage}
               width="2400"
               height="800"
-              src="images/space-jelly-gear-banner_kmjgvg"
+              src="https://user-images.githubusercontent.com/1045274/199742478-515b9507-1c74-4c8a-a5e3-0918e6c7c2be.jpg"
+              deliveryType="fetch"
               alt=""
               sizes="100vw"
             />
@@ -50,6 +51,7 @@ export default function Home() {
                       width="500"
                       height="500"
                       src={product.image}
+                      deliveryType="fetch"
                       alt=""
                       sizes="(min-width: 480px ) 50vw,
                             (min-width: 728px) 33vw,

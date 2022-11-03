@@ -21,7 +21,8 @@ export default function Product({ product, ogImage }) {
       </Head>
 
       <CldOgImage
-        src="images/product-social-media-card_l8thig"
+        src="https://user-images.githubusercontent.com/1045274/199742477-3a683f54-915b-463d-95a2-8ac584db7240.png"
+        deliveryType="fetch"
         overlays={[
           {
             publicId: product.image.replace(/^\//, '').replace(/\//g, ':'),
@@ -76,6 +77,7 @@ export default function Product({ product, ogImage }) {
               width="500"
               height="500"
               src={product.image}
+              deliveryType="fetch"
               alt=""
               sizes="(min-width: 1024px ) 50vw, 100vw"
             />
