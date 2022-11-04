@@ -195,4 +195,4 @@ By defining `sizes` we can control exactly what size gets delivered at what view
 
 ## Next Lesson
 
-[Dynamically Cropping & Resizing Product Images in a Grid](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/03%20-%20Dynamically%20Cropping%20%26%20Resizing%20Product%20Images%20in%20a%20Grid.md)
+[03 - Dynamically Cropping & Resizing Product Images in a Grid](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/03%20-%20Dynamically%20Cropping%20%26%20Resizing%20Product%20Images%20in%20a%20Grid.md)
