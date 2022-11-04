@@ -1,4 +1,4 @@
-# Lesson 99: The End
+# The End
 
 Congrats 🥳 you did it!
 
