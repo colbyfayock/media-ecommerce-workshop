@@ -195,4 +195,4 @@ By defining `sizes` we can control exactly what size gets delivered at what view
 
 ## Next Lesson
 
-[next](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
+[Dynamically Cropping & Resizing Product Images in a Grid](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/03%20-%20Dynamically%20Cropping%20%26%20Resizing%20Product%20Images%20in%20a%20Grid.md)
