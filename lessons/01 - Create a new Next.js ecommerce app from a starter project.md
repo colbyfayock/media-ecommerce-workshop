@@ -71,4 +71,4 @@ The product data is what it sounds like, but importantly, is where we manage the
 
 ## Next Lesson
 
-[02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
+[02 - Optimized, Responsive Images from Cloudinary with CldImage]([https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Optimized%20Responsive%20Images%20from%20Cloudinary%20with%20CldImage.md))
