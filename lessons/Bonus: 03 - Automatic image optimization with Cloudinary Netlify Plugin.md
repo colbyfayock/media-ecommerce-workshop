@@ -1,4 +1,4 @@
-# 📓 Lesson 04: Automatic image optimization with Cloudinary Netlify Plugin
+# 📓 Bonus 03: Automatic image optimization with Cloudinary Netlify Plugin
 
 Now that we're set up on Netlify, we want to start working towards our goal of optimizing all of our static assets.
 
