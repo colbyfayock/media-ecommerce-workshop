@@ -73,4 +73,4 @@ Create a simple change on a new branch, push it to your GitHub repository, and c
 
 ## Next Lesson
 
-[04 - Automatic image optimization with Cloudinary Netlify Plugin](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md)
+[03 - Automatic image optimization with Cloudinary Netlify Plugin](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/Bonus:%2003%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md)
