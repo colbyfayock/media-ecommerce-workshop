@@ -131,4 +131,4 @@ CLOUDINARY_API_SECRET="[Your Cloudinary API Secret]"
 
 ## Next Lesson
 
-[05 - Delivering images from Cloudinary with the JS URL Gen SDK](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/05%20-%20Delivering%20images%20from%20Cloudinary%20with%20the%20JS%20URL%20Gen%20SDK.md)
+[The End](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/The%20End.md)
