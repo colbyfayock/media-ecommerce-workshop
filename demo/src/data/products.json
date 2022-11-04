@@ -3,60 +3,82 @@
     "id": "cosmo-hat-model",
     "name": "Cosmo Fitted Hat",
     "price": 30,
-    "image": "https://user-images.githubusercontent.com/1045274/199742458-fcd42411-4e53-4559-a5da-5d3aca745b57.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199858994-e71a833e-c83c-4c6e-9a69-b8c71f13fc14.jpg",
+    "width": 900,
+    "height": 1200
   },
   {
     "id": "cosmo-hat",
     "name": "Cosmo Trucker Hat",
     "price": 24,
-    "image": "https://user-images.githubusercontent.com/1045274/199742461-5dde5989-520a-408c-84b4-78c8f3c8e962.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199742461-5dde5989-520a-408c-84b4-78c8f3c8e962.jpg",
+    "width": 1200,
+    "height": 1200,
+    "sale": 0.9
   },
   {
     "id": "cosmo-mousepad",
     "name": "Cosmo Mousepad",
     "price": 20,
-    "image": "https://user-images.githubusercontent.com/1045274/199742463-046efdcf-195e-46ca-be6e-6e787cd69789.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199742463-046efdcf-195e-46ca-be6e-6e787cd69789.jpg",
+    "width": 1200,
+    "height": 1200,
+    "sale": 0.6
   },
   {
     "id": "cosmo-mug",
     "name": "Cosmo Mug",
     "price": 15,
-    "image": "https://user-images.githubusercontent.com/1045274/199742464-1a35a229-1f39-40b8-bb26-ee9e0af128cc.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199859005-e4d462ba-8c7c-4a30-8ab4-da430b0d7d8d.jpg",
+    "width": 1200,
+    "height": 900
   },
   {
     "id": "cosmo-pillow",
     "name": "Cosmo Pillow",
     "price": 20,
-    "image": "https://user-images.githubusercontent.com/1045274/199742465-e0ee54ba-1c54-48de-9d1e-f20c17d6c639.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199859011-6c017c85-6964-41b6-99c1-e0a101bf07a7.jpg",
+    "width": 1200,
+    "height": 900
   },
   {
     "id": "cosmo-sweatshirt-hooded",
     "name": "Cosmo Hooded Sweatshirt",
     "price": 50,
-    "image": "https://user-images.githubusercontent.com/1045274/199742468-66a4f4e5-53f1-4bce-956b-5ae41738bb29.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199742468-66a4f4e5-53f1-4bce-956b-5ae41738bb29.jpg",
+    "width": 1200,
+    "height": 1200
   },
   {
     "id": "cosmo-sweatshirt",
     "name": "Cosmo Sweatshirt",
     "price": 40,
-    "image": "https://user-images.githubusercontent.com/1045274/199742469-8dc5e231-33c7-419f-9a07-6d40fe02a7fc.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199742469-8dc5e231-33c7-419f-9a07-6d40fe02a7fc.jpg",
+    "width": 1200,
+    "height": 1200
   },
   {
     "id": "cosmo-tshirt-kids",
     "name": "Cosmo Kids Tshirt",
     "price": 15,
-    "image": "https://user-images.githubusercontent.com/1045274/199742470-5720aa0b-a30e-4cfc-a65e-e717e5d93dee.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199742470-5720aa0b-a30e-4cfc-a65e-e717e5d93dee.jpg",
+    "width": 1200,
+    "height": 1200
   },
   {
     "id": "cosmo-tshirt-model",
     "name": "Cosmo Tshirt",
     "price": 20,
-    "image": "https://user-images.githubusercontent.com/1045274/199742472-bfcf523e-e9be-4a43-804a-6af67c66ad60.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199859021-7674ad78-55c2-4629-9bcf-938b5e22af6b.jpg",
+    "width": 900,
+    "height": 1200
   },
   {
     "id": "cosmo-tshirt-vneck",
     "name": "Cosmo Vneck",
     "price": 20,
-    "image": "https://user-images.githubusercontent.com/1045274/199742475-dc1076f7-4699-48bf-a2eb-88d36c4eb4ab.jpg"
+    "image": "https://user-images.githubusercontent.com/1045274/199742475-dc1076f7-4699-48bf-a2eb-88d36c4eb4ab.jpg",
+    "width": 1200,
+    "height": 1200
   }
 ]

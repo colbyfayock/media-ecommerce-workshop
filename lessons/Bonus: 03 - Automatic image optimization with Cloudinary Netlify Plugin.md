@@ -8,9 +8,7 @@ That's exactly what's happening with the [Cloudinary Netlify Plugin](https://git
 
 ## What to Expect
 
-First things first, before we dive into the plugin we'll need a Cloudinary account. Hopefully at this point you already have an account set up, but if you don't, be sure to head over to [cloudinary.com/users/register/free](https://cloudinary.com/users/register/free)
 
-> 💡 Tip: When selecting a Cloudinary product during account creation, be sure to select Programmable Media!
 
 With our Cloudinary account, we can install the plugin right inside the UI, where once configured with our Cloudinary account, we'll be on our way to automatic image optimization!
 

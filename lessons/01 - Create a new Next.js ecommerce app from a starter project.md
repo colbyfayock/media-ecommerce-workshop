@@ -69,25 +69,6 @@ The homepage file includes the React that renders the page.
 
 The product data is what it sounds like, but importantly, is where we manage the image locations, which we'll update in a later lesson when starting to work with Cloudinary.
 
-## Extra Credit
-
-### 1. Update the title of the store
-
-We started up a new online store called Space Jelly, but they don't franchise quite yet! That means, you need to come up with your own store name.
-
-Update the title of the store throughout the application to your new store!
-
-P.S. don't forget the SEO metadata!
-
-#### Getting Started
-
-You can find the `<Head>` component in all of the Page files where you can manage how your page title looks.
-
-#### Where We'll Make Changes
-* `src/pages/index.js`
-* `src/components/Footer/Footer.js`
-* `src/components/Header/Header.js`
-
 ## Next Lesson
 
 [02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
