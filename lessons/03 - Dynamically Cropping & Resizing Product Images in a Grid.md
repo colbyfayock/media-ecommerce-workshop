@@ -109,4 +109,4 @@ We much prefer our gravity set to "auto", which we can certainly set manually, b
 
 ## Next Lesson
 
-[next](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
+[04 - Adding Image Badges & Text as Overlays](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Adding%20Image%20Badges%20%26%20Text%20as%20Overlays.md)
