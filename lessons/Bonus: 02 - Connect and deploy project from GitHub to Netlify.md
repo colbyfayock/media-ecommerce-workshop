@@ -1,4 +1,4 @@
-# 📓 Lesson 03: Connect and deploy project from GitHub to Netlify
+# 📓 Bonus 02: Connect and deploy project from GitHub to Netlify
 
 As we mentioned in Lesson 2, we'll be using [Netlify](https://netlify.com/) to actually deploy our application. This will give us a way to easily get our project built, deployed, and available for anyone in the world to see.
 
