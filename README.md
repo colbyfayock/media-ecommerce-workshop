@@ -102,14 +102,7 @@ The lessons directory includes a bunch of markdown files which includes instruct
 
 As far as the project we'll create and work through together, you're welcome to choose where you run the Create Next App command, whether that's outside of this repository or within it. A good rule of thumb might be to create the project where you would typically create new web apps or sites.
 
-### Lesson Plan
-
-* [01 - Create a new Next.js ecommerce app from a starter project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/01%20-%20Create%20a%20new%20Next.js%20ecommerce%20app%20from%20a%20starter%20project.md)
-* [02 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
-* [03 - Connect and deploy project from GitHub to Netlify](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/03%20-%20Connect%20and%20deploy%20project%20from%20GitHub%20to%20Netlify.md)
-* [04 - Automatic image optimization with Cloudinary Netlify Plugin](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md)
-* [05 - Delivering images from Cloudinary with the JS URL Gen SDK](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/05%20-%20Delivering%20images%20from%20Cloudinary%20with%20the%20JS%20URL%20Gen%20SDK.md)
-* [06 - Using the Next.js Image component with Cloudinary](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/06%20-%20Using%20the%20Next.js%20Image%20component%20with%20Cloudinary.md)
+[Head over to Lessons](https://github.com/colbyfayock/media-ecommerce-workshop/tree/main/lessons) to get started!
 
 
 ## 🎓 After the Workshop
