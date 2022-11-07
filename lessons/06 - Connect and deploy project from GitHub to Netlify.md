@@ -51,4 +51,4 @@ Customize the Netlify site subdomain to your store's name.
 
 ## Next Lesson
 
-[03 - Automatic image optimization with Cloudinary Netlify Plugin](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/Bonus:%2003%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md)
+[07 - Generating a Dynamic Social Media Open Graph Image](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/07%20-%20Generating%20a%20Dynamic%20Social%20Media%20Open%20Graph%20Image.md)
