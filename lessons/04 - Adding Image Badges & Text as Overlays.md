@@ -115,7 +115,7 @@ To start, we need to update our existing badge to a generic one.
 Let's update our overlay's badge URL to:
 
 ```jsx
-url: 'https://user-images.githubusercontent.com/1045274/199872380-ced2b84d-fce4-4fc9-9e76-48cb4a7fb35f.png',
+url: 'https://user-images.githubusercontent.com/1045274/199878003-6b54e65f-7d23-413d-a48d-5c88d74652e3.png',
 ```
 
 Next, we can add our dynamic text.
