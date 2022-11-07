@@ -168,22 +168,7 @@ Now that we have the base of our social media card
 * [Next Cloudinary CldOgImage](https://next-cloudinary.spacejelly.dev/components/cldogimage/basic-usage)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Next Lesson
 
-[next](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
+* [Bonus 01 - Automatic image optimization with Cloudinary Netlify Plugin](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/Bonus:%2001%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md)
+* [The End](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/The%20End.md)
