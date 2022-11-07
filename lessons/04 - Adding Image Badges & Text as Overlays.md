@@ -157,4 +157,4 @@ And now we're dynamically showing the sale percentage for our products.
 
 ## Next Lesson
 
-[next](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/02%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
+[05 - Create a new GitHub repository and link local project](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/05%20-%20Create%20a%20new%20GitHub%20repository%20and%20link%20local%20project.md)
