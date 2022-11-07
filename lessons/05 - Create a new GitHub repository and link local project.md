@@ -60,4 +60,4 @@ git push -u origin main
 
 ## Next Lesson
 
-[Bonus 02 - Connect and deploy project from GitHub to Netlify](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/Bonus:%2002%20-%20Connect%20and%20deploy%20project%20from%20GitHub%20to%20Netlify.md)
+[06 - Connect and deploy project from GitHub to Netlify](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/06%20-%20Connect%20and%20deploy%20project%20from%20GitHub%20to%20Netlify.md)
