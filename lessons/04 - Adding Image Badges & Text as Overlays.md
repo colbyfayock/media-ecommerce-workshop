@@ -16,7 +16,7 @@ We can do this by defining what that image is and positioning it exactly how we 
 
 * Add a sales badge to products
 * Only add a sales badge to products on sale
-*
+* Use text to add dynamic sale data to a badge
 
 ## Exercises
 

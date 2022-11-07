@@ -1,10 +1,8 @@
-# 📓 Lesson 03: Connect and deploy project from GitHub to Netlify
+# 📓 Lesson 06: Connect and deploy project from GitHub to Netlify
 
-As we mentioned in Lesson 2, we'll be using [Netlify](https://netlify.com/) to actually deploy our application. This will give us a way to easily get our project built, deployed, and available for anyone in the world to see.
+As we mentioned in the previous lesson, we'll be using [Netlify](https://netlify.com/) to actually deploy our application. This will give us a way to easily get our project built, deployed, and available for anyone in the world to see.
 
 On top of that, it has a ton of other great features that make collaborative work great such as deploy previews, where if you create a Pull Request, Netlify by default will automatically create a new deployment with those changes! While we're only going to gover the main deployment flow, there's a lot more you can get into with this tool.
-
-> ℹ️ Note: Don't want to use Netlify? Most of this workshop will work with any similar service like [Vercel](https://vercel.com/), you just won't be able to follow along with [lesson 4](https://github.com/colbyfayock/media-ecommerce-workshop/blob/main/lessons/04%20-%20Automatic%20image%20optimization%20with%20Cloudinary%20Netlify%20Plugin.md).
 
 ## What to Expect
 
@@ -50,26 +48,6 @@ Customize the Netlify site subdomain to your store's name.
 #### Where We'll Make Changes
 
 * Netlify > Site Settings > Domain Management > Custom Domains
-
-## Extra Credit
-
-### 1. Push some new changes to test auto-deploy
-
-Netlify has a ton of great features that take the pain out of the DevOps side of things including auto-deploying Pull Requests to preview new changes!
-
-Unless turned off, this is configured by default, meaning all you need to do is create a new Pull Request with some changes to test this out.
-
-#### Getting Started
-
-Create a simple change on a new branch, push it to your GitHub repository, and create a pull request. You should then receive a success notification where you can preview your change live.
-
-> 💡 Tip: Try changing the store's name to something goofy on a new branch, pushing that out to GitHub, and creating a Pull Request with it!
-
-#### Where We'll Make Changes
-* New branch with a new Pull Request
-
-#### Resources
-* [Creating a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## Next Lesson
 
